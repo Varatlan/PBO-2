@@ -1,3 +1,4 @@
 # PBO-2
-Pada pertemuan ini kami melanjutkan pelajaran extend. 
-dengan topik yang lebih nyambung.
+Pada pertemuan ini kami melanjutkan pelajaran extend ditambah dengan konstruktor. 
+
+dengan variable yang lebih nyambung.
